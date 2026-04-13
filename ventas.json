@@ -1,0 +1,62 @@
+[
+  {
+    "id": 9001,
+    "id_usuario": 1,
+    "fecha": "2026-04-01T10:35:12.000-03:00",
+    "total": 29970.5,
+    "dirección": "Av. Corrientes 1234, CABA",
+    "productos": [
+      {
+        "id": 101
+      },
+      {
+        "id": 103
+      },
+      {
+        "id": 106
+      }
+    ]
+  },
+  {
+    "id": 9002,
+    "id_usuario": 2,
+    "fecha": "2026-04-03T18:10:00.000-03:00",
+    "total": 27480,
+    "dirección": "Gral. Paz 456, Vicente López, Buenos Aires",
+    "productos": [
+      {
+        "id": 104
+      },
+      {
+        "id": 102
+      }
+    ]
+  },
+  {
+    "id": 9003,
+    "id_usuario": 4,
+    "fecha": "2026-04-06T09:05:30.000-03:00",
+    "total": 21981,
+    "dirección": "San Martín 890, Rosario, Santa Fe",
+    "productos": [
+      {
+        "id": 101
+      }
+    ]
+  },
+  {
+    "id": 9004,
+    "id_usuario": 5,
+    "fecha": "2026-04-10T13:22:40.000-03:00",
+    "total": 20570,
+    "dirección": "Belgrano 77, Córdoba, Córdoba",
+    "productos": [
+      {
+        "id": 103
+      },
+      {
+        "id": 102
+      }
+    ]
+  }
+]

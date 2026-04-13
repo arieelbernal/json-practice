@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ana",
+    "apellido": "Gómez",
+    "email": "ana.gomez@tiendaejemplo.com",
+    "contraseña": "AnaGomez#2026"
+  },
+  {
+    "id": 2,
+    "nombre": "Bruno",
+    "apellido": "Pérez",
+    "email": "bruno.perez@tiendaejemplo.com",
+    "contraseña": "BrunoPerez#2026"
+  },
+  {
+    "id": 3,
+    "nombre": "Carla",
+    "apellido": "Martínez",
+    "email": "carla.martinez@tiendaejemplo.com",
+    "contraseña": "CarlaMtz#2026"
+  },
+  {
+    "id": 4,
+    "nombre": "Diego",
+    "apellido": "Luna",
+    "email": "diego.luna@tiendaejemplo.com",
+    "contraseña": "DiegoLuna#2026"
+  },
+  {
+    "id": 5,
+    "nombre": "Elena",
+    "apellido": "Rivas",
+    "email": "elena.rivas@tiendaejemplo.com",
+    "contraseña": "ElenaRivas#2026"
+  }
+]

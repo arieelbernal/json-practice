@@ -1,0 +1,21 @@
+{
+  "name": "json-practice",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/arieelbernal/json-practice#readme",
+  "bugs": {
+    "url": "https://github.com/arieelbernal/json-practice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arieelbernal/json-practice.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch index.js"
+  }
+}

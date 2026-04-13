@@ -1,0 +1,44 @@
+[
+  {
+    "id": 101,
+    "nombre": "Café en grano 500g",
+    "desc": "Blend tostado medio, notas a chocolate. Origen: Colombia.",
+    "precio": 10990.5,
+    "imagen": "https://picsum.photos/seed/cafe-500/400/400"
+  },
+  {
+    "id": 102,
+    "nombre": "Té verde 20 saquitos",
+    "desc": "Té verde suave, ideal para consumo diario.",
+    "precio": 4590,
+    "imagen": "https://picsum.photos/seed/te-verde/400/400"
+  },
+  {
+    "id": 103,
+    "nombre": "Taza térmica 350ml",
+    "desc": "Taza térmica de acero inoxidable, mantiene temperatura por 6h.",
+    "precio": 15990,
+    "imagen": "https://picsum.photos/seed/taza-termica/400/400"
+  },
+  {
+    "id": 104,
+    "nombre": "Molinillo manual",
+    "desc": "Molinillo de café manual con molienda ajustable.",
+    "precio": 32990,
+    "imagen": "https://picsum.photos/seed/molinillo/400/400"
+  },
+  {
+    "id": 105,
+    "nombre": "Yerba mate 1kg",
+    "desc": "Yerba mate tradicional, sabor intenso.",
+    "precio": 6990.75,
+    "imagen": "https://picsum.photos/seed/yerba-1kg/400/400"
+  },
+  {
+    "id": 106,
+    "nombre": "Filtro para cafetera (x100)",
+    "desc": "Filtros de papel tamaño 02, paquete de 100 unidades.",
+    "precio": 2990,
+    "imagen": "https://picsum.photos/seed/filtros/400/400"
+  }
+]
