@@ -4,34 +4,47 @@
     "nombre": "Ana",
     "apellido": "Gómez",
     "email": "ana.gomez@tiendaejemplo.com",
-    "contraseña": "AnaGomez#2026"
+    "contraseña": "AnaGomez#2026",
+    "activo": true
   },
   {
     "id": 2,
     "nombre": "Bruno",
     "apellido": "Pérez",
     "email": "bruno.perez@tiendaejemplo.com",
-    "contraseña": "BrunoPerez#2026"
+    "contraseña": "BrunoPerez#2026",
+    "activo": true
   },
   {
     "id": 3,
     "nombre": "Carla",
     "apellido": "Martínez",
     "email": "carla.martinez@tiendaejemplo.com",
-    "contraseña": "CarlaMtz#2026"
+    "contraseña": "CarlaMtz#2026",
+    "activo": false
   },
   {
     "id": 4,
     "nombre": "Diego",
     "apellido": "Luna",
     "email": "diego.luna@tiendaejemplo.com",
-    "contraseña": "DiegoLuna#2026"
+    "contraseña": "DiegoLuna#2026",
+    "activo": true
   },
   {
     "id": 5,
     "nombre": "Elena",
     "apellido": "Rivas",
     "email": "elena.rivas@tiendaejemplo.com",
-    "contraseña": "ElenaRivas#2026"
+    "contraseña": "ElenaRivas#2026",
+    "activo": true
+  },
+  {
+    "id": 6,
+    "nombre": "Test",
+    "apellido": "User",
+    "email": "test.user@tiendaejemplo.com",
+    "contraseña": "1234",
+    "activo": false
   }
 ]
